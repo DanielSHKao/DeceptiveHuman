@@ -8,6 +8,9 @@ This is the official repository of the paper: <br/>
 We propose **Deceptive-Human**, a prompt-to-NeRF generative framework, to produce realistic 3D human with any types of prompts.
 <p>Feel free to contact me at <a href = "mailto: skao@cse.ust.hk" target="_blank">skao@cse.ust.hk</a>. The codes will be released soon! </p>
 
+## Demo video
+Please find the demo <a href="https://www.youtube.com/watch?v=57yu7vReZno">here</a>.
+
 ## Citation
 If you find this paper/repository helpful, please consider citing:
 ```
