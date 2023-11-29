@@ -1,4 +1,4 @@
-# DeceptiveHuman
+# Deceptive-Human
 This is the official repository of the paper: <br/>
 > [**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**](https://arxiv.org/abs/2311.16499)      
 > Shiu-hong Kao, Xinhang Liu, Yu-Wing Tai, Chi-Keung Tang        
